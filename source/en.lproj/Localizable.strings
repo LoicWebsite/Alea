@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  Alea
+
+  Created by Loïc DAVID on 20/06/2018.
+  Copyright © 2018 Meteo Trebeurden. All rights reserved.
+*/
+"texteJouer" = "Play";
+"texteAucun" = "None";
+"texteTous" = "All";
+"texteChiffre" = "Digit";
+"texteLettre" = "Letter";
+"texteToiMoi" = "You - Me";
+"texteVraiFaux" = "True - False";
+"texteOuiNon" = "Yes - No";
+"textePileFace" = "Coin Toss";
+"texteChifoumi" = "Shifoumi";
+"texteDe" = "Dice";
+"texteCarte" = "Card";
+"texteRoulette" = "Roulette";
+"texteDirection" = "Direction";
+"texteAzimut" = "Azimuth";
+"texteJour" = "Day";
+"texteEuromillion" = "Euromillion";
+"texteLoto" = "Lottery";
+"texteToi" = "You";
+"texteMoi" = "Me";
+"texteNous" = "Us";
+"texteVrai" = "True";
+"texteFaux" = "False";
+"texteOui" = "Yes";
+"texteNon" = "No";
+"textePierre" = "Rock";
+"texteFeuille" = "Leaf";
+"texteCiseaux" = "Scissors";
+"textePile" = "Flip";
+"texteFace" = "Flop";
+"texteRouge" = "Red";
+"texteNoir" = "Black";
+"texteVert" = "Green";
+"textePair" = "Even";
+"texteImpair" = "Odd";
+"textePremier" = "1st12";
+"texteMilieu" = "2nd12";
+"texteDernier" = "3rd12";
+"texteGauche" = "Left";
+"texteDroite" = "Right";
+"texteToutDroit" = "Straight";
+"texteDemiTour" = "turn Back";
+"texteNord" = "North";
+"texteNordEst" = "North East";
+"texteEst" = "East";
+"texteSudEst" = "South East";
+"texteSud" = "South";
+"texteSudOuest" = "South West";
+"texteOuest" = "West";
+"texteNordOuest" = "North West";
+"texteLundi" = "Monday";
+"texteMardi" = "Tuesday";
+"texteMercredi" = "Wednesday";
+"texteJeudi" = "Thursday";
+"texteVendredi" = "Friday";
+"texteSamedi" = "Saturday";
+"texteDimanche" = "Sunday";
+"minimumMaximum" = "Input error";
+"chiffreMinimum" = "The minimum number must be less than the maximum number.";
+"chiffreMaximum" = "The maximum number must be greater than the minimum number.";
+"chiffreIncoherent" = "When numbers are not repeated, the range of numbers between the minimum and maximum must be greater than the number of digits drawn simultaneously.";
+"validationReset" = "Do you want to reset all settings and delete the random draws historic and statistics?";
+"effacerHistorique" = "Do you want to delete the historic of  %@ ?";
+"statistique" = "Statistics";
+"effacerStatistique" = "Do you want to delete the statistics of  %@ ?";
+"validationOui" = "Yes";
+"validationNon" = "No";
+"memoireSaturee" = "Memory saturated";
+"validationMemoirePleine" = "Memory's almost full. Do you want to clear the historic of draws to free up memory?";
+"nomFichierAide" = "User-Guide-En";

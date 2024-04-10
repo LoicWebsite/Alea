@@ -1,0 +1,90 @@
+/**** écran Aide ****/
+
+/* Class = "UINavigationItem" */
+"gCD-Us-3Vk.title" = "Aide Alea";
+
+/* Class = "UITabBarItem" */
+"m73-sg-EDJ.title" = "Aide";
+
+/**** écran Jeu ****/
+
+/* Class = "UITabBarItem" */
+"F3L-bB-voM.title" = "Jeu";
+
+/* Class = "UIButton" */
+"oEC-uF-wYu.normalTitle" = "Jouer";
+"Sdj-tb-4td.normalTitle" = "Jouer";
+"7Ce-ng-9og.normalTitle" = "Tous";
+
+/**** écran Paramètre ****/
+
+/* Class = "UINavigationItem" */
+"13P-Jm-IgZ.title" = "Paramètre";
+
+/* Class = "UITabBarItem" */
+"EZF-Wu-g9l.title" = "Paramètre";
+
+/* Class = "UITableViewSection" */
+"2Go-f7-5p6.headerTitle" = "Chiffres";
+"wDK-pT-w9S.headerTitle" = "Lettres";
+"iLn-lJ-bfl.headerTitle" = "Cartes";
+"Uxe-g9-ra9.headerTitle" = "Dés";
+"cTA-pd-s2g.headerTitle" = "Jours";
+"9No-OK-Atk.headerTitle" = "Statistiques";
+"GsA-ZH-SPr.headerTitle" = "Affichage";
+"ix1-hU-3g4.headerTitle" = "Par défaut";
+"ix1-hU-3g4.footerTitle" = "Tous les paramètres seront réinitialisés à leur valeur par défaut. L'historique et les statistiques de tirages seront remis à zéro.";
+
+/* Class = "UILabel" */
+"Bv6-m7-xiH.text" = "Nombre de lettres";
+"sqE-iX-97y.text" = "oui";
+"qrG-z5-B8e.text" = "non";
+"EuF-06-zci.text" = "oui";
+"ZeZ-26-ECX.text" = "non";
+"A0M-gz-gSf.text" = "Tirages restants";
+"wMW-JN-kLz.text" = "oui";
+"cwd-fA-zay.text" = "non";
+"H5a-C9-8ZB.text" = "Nombre de chiffres";
+"NA8-ms-e69.text" = "Nombre de dés";
+"PC7-qc-Psc.text" = "Nombre de cartes";
+"ddr-5c-TeC.text" = "Répétition chiffre";
+"dxo-Xp-VaT.text" = "Maximum";
+"tRe-hl-aFK.text" = "Répétition lettre";
+"tyv-Ff-Dd1.text" = "Minimum";
+"Evu-wp-WSr.text" = "Répétition jour";
+"kHA-Ga-RqK.text" = "oui";
+"KXz-95-gnT.text" = "non";
+"gQe-Pv-tGa.text" = "Tirage automatique";
+"ZwW-zE-64O.text" = "oui";
+"IUW-dh-Wh1.text" = "non";
+
+/* Class = "UIButton" */
+"LbR-1u-JaN.normalTitle" = "Réinitialiser";
+
+/**** écran Historique ****/
+
+/* Class = "UINavigationItem" */
+"whm-aL-ejT.title" = "Historique";
+
+/* Class = "UILabel" */
+"4LN-02-c3q.text" = "Historique";
+"p67-dP-Avk.text" = "tirages historisés";
+
+/* Class = "UIButton" */
+"xaI-Ao-gq6.normalTitle" = "Effacer";
+"eQV-DV-cry.normalTitle" = "Statistique";
+
+/**** écran Statistique ****/
+
+/* Class = "UINavigationItem" */
+"6aa-5C-WTn.title" = "Statistique";
+
+/* Class = "UIButton" */
+"35E-ak-hXB.normalTitle" = "Effacer";
+
+/* Class = "UILabel" */
+"zOZ-qA-8qa.text" = "Statistique";
+"xSX-cG-0m6.text" = "tirages aléatoires";
+"C0K-uk-KNB.text" = "Tirage";
+"zGj-Hp-ar8.text" = "Apparition";
+"d7Z-5N-Bc4.text" = "fois";

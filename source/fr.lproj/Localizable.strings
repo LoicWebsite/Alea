@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  Alea
+
+  Created by Loïc DAVID on 20/06/2018.
+  Copyright © 2018 Meteo Trebeurden. All rights reserved.
+*/
+"texteJouer" = "Jouer";
+"texteAucun" = "Aucun";
+"texteTous" = "Tous";
+"texteChiffre" = "Chiffre";
+"texteLettre" = "Lettre";
+"texteToiMoi" = "Toi - Moi";
+"texteVraiFaux" = "Vrai - Faux";
+"texteOuiNon" = "Oui - Non";
+"textePileFace" = "Pile - Face";
+"texteChifoumi" = "Chifoumi";
+"texteDe" = "Dé";
+"texteCarte" = "Carte";
+"texteRoulette" = "Roulette";
+"texteDirection" = "Direction";
+"texteAzimut" = "Azimut";
+"texteJour" = "Jour";
+"texteEuromillion" = "Euromillion";
+"texteLoto" = "Loto";
+"texteToi" = "Toi";
+"texteMoi" = "Moi";
+"texteNous" = "Nous";
+"texteVrai" = "Vrai";
+"texteFaux" = "Faux";
+"texteOui" = "Oui";
+"texteNon" = "Non";
+"textePierre" = "Pierre";
+"texteFeuille" = "Feuille";
+"texteCiseaux" = "Ciseaux";
+"textePile" = "Pile";
+"texteFace" = "Face";
+"texteRouge" = "Rouge";
+"texteNoir" = "Noir";
+"texteVert" = "Vert";
+"textePair" = "Pair";
+"texteImpair" = "Impair";
+"textePremier" = "P12";
+"texteMilieu" = "M12";
+"texteDernier" = "D12";
+"texteGauche" = "à Gauche";
+"texteDroite" = "à Droite";
+"texteToutDroit" = "tout Droit";
+"texteDemiTour" = "demi Tour";
+"texteNord" = "Nord";
+"texteNordEst" = "Nord Est";
+"texteEst" = "Est";
+"texteSudEst" = "Sud Est";
+"texteSud" = "Sud";
+"texteSudOuest" = "Sud Ouest";
+"texteOuest" = "Ouest";
+"texteNordOuest" = "Nord Ouest";
+"texteLundi" = "Lundi";
+"texteMardi" = "Mardi";
+"texteMercredi" = "Mercredi";
+"texteJeudi" = "Jeudi";
+"texteVendredi" = "Vendredi";
+"texteSamedi" = "Samedi";
+"texteDimanche" = "Dimanche";
+"minimumMaximum" = "Erreur de saisie";
+"chiffreMinimum" = "Le chiffre minimum doit être inférieur au chiffre maximum.";
+"chiffreMaximum" = "Le chiffre maximum doit être supérieur au chiffre minimum.";
+"chiffreIncoherent" = "Quand les chiffres ne sont pas répétés, la plage de chiffres entre le minimum et le maximum doit être supérieure au nombre de chiffres tirés simultanément.";
+"validationReset" = "Voulez-vous réinitialiser tous les paramètres et supprimer l'historique et les statistiques des tirages ?";
+"effacerHistorique" = "Voulez-vous effacer l'historique  %@ ?";
+"statistique" = "Statistique";
+"effacerStatistique" = "Voulez-vous effacer les statistiques  %@ ?";
+"validationOui" = "Oui";
+"validationNon" = "Non";
+"memoireSaturee" = "Mémoire saturée";
+"validationMemoirePleine" = "La mémoire est presque pleine. Voulez-vous effacer l'historique des tirages pour libérer de la mémoire ?";
+"nomFichierAide" = "User-Guide-Fr";

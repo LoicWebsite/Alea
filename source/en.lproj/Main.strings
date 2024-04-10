@@ -1,0 +1,90 @@
+/**** écran Aide ****/
+
+/* Class = "UINavigationItem" */
+"gCD-Us-3Vk.title" = "Alea Help";
+
+/* Class = "UITabBarItem" */
+"m73-sg-EDJ.title" = "Help";
+
+/**** écran Jeu ****/
+
+/* Class = "UITabBarItem" */
+"F3L-bB-voM.title" = "Game";
+
+/* Class = "UIButton" */
+"Sdj-tb-4td.normalTitle" = "Play";
+"oEC-uF-wYu.normalTitle" = "Play";
+"7Ce-ng-9og.normalTitle" = "All";
+
+/**** écran Paramètre ****/
+
+/* Class = "UINavigationItem" */
+"13P-Jm-IgZ.title" = "Parameter";
+
+/* Class = "UITabBarItem" */
+"EZF-Wu-g9l.title" = "Parameter";
+
+/* Class = "UITableViewSection" */
+"2Go-f7-5p6.headerTitle" = "Digits";
+"wDK-pT-w9S.headerTitle" = "Letters";
+"Uxe-g9-ra9.headerTitle" = "Dices";
+"iLn-lJ-bfl.headerTitle" = "Cards";
+"cTA-pd-s2g.headerTitle" = "Days";
+"9No-OK-Atk.headerTitle" = "Statistics";
+"GsA-ZH-SPr.headerTitle" = "Display";
+"ix1-hU-3g4.headerTitle" = "Default";
+"ix1-hU-3g4.footerTitle" = "All settings will be reset to their default values. Historic and draws statistics will be reset.";
+
+/* Class = "UILabel" */
+"Bv6-m7-xiH.text" = "Number of letters";
+"sqE-iX-97y.text" = "yes";
+"qrG-z5-B8e.text" = "no";
+"EuF-06-zci.text" = "yes";
+"ZeZ-26-ECX.text" = "no";
+"A0M-gz-gSf.text" = "Remaining draws";
+"wMW-JN-kLz.text" = "yes";
+"cwd-fA-zay.text" = "no";
+"H5a-C9-8ZB.text" = "Number of digits";
+"NA8-ms-e69.text" = "Number of dices";
+"PC7-qc-Psc.text" = "Number of cards";
+"ddr-5c-TeC.text" = "Digit repetition";
+"dxo-Xp-VaT.text" = "Maximum";
+"tRe-hl-aFK.text" = "Letter repetition";
+"tyv-Ff-Dd1.text" = "Minimum";
+"Evu-wp-WSr.text" = "Day repetition";
+"kHA-Ga-RqK.text" = "yes";
+"KXz-95-gnT.text" = "no";
+"gQe-Pv-tGa.text" = "Automatic draws";
+"ZwW-zE-64O.text" = "yes";
+"IUW-dh-Wh1.text" = "no";
+
+/* Class = "UIButton" */
+"LbR-1u-JaN.normalTitle" = "Reset";
+
+/**** écran Historique ****/
+
+/* Class = "UINavigationItem" */
+"whm-aL-ejT.title" = "Historic";
+
+/* Class = "UILabel" */
+"4LN-02-c3q.text" = "Historic";
+"p67-dP-Avk.text" = "draws historized";
+
+/* Class = "UIButton" */
+"xaI-Ao-gq6.normalTitle" = "Delete";
+"eQV-DV-cry.normalTitle" = "Statistics";
+
+/**** écran Statistique ****/
+
+/* Class = "UINavigationItem" */
+"6aa-5C-WTn.title" = "Statistics";
+
+/* Class = "UIButton" */
+"35E-ak-hXB.normalTitle" = "Delete";
+
+/* Class = "UILabel" */
+"zOZ-qA-8qa.text" = "Statistics";
+"xSX-cG-0m6.text" = "random draws";
+"C0K-uk-KNB.text" = "Draw";
+"zGj-Hp-ar8.text" = "Appearance";
+"d7Z-5N-Bc4.text" = "times";
